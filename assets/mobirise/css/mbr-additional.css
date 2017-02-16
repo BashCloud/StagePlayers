@@ -4,6 +4,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -413,6 +414,8 @@ h6,
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-0 .navbar-toggler {
   color: #ffffff;
@@ -482,6 +485,9 @@ h6,
 }
 #header6-2 .mbr-section-text {
   color: #565656;
+}
+#gallery4-a .mbr-gallery-item > div > span {
+  font-size: 14px;
 }
 #features2-7 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
